@@ -22,11 +22,11 @@
 
 {
     'name': 'Stock Packaging Usability',
-    'version': '1.0',
+    'version': '8.0.1.0.0',
     'category': 'Warehouse Management',
     'license': 'AGPL-3',
     'summary': "Faster packaging process in Odoo",
-    'author': 'Akretion',
+    'author': 'Akretion,Odoo Community Association (OCA)',
     'website': 'http://www.akretion.com',
     'depends': ['stock'],
     'data': ['wizard/stock_transfer_details.xml'],
